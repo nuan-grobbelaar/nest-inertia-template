@@ -46,6 +46,7 @@ public/static/
 
 # NestJS / backend specific
 *.tsbuildinfo
+public/
 
 # IDEs
 .idea
